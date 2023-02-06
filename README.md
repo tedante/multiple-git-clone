@@ -1,11 +1,11 @@
 # Multiple Git Clone
 
-Adjust file:
-1. organization.txt
-2. prefix.txt
-3. usernameList.txt
+## 1. Adjust file:
+> 1. organization.txt
+> 2. prefix.txt
+> 3. usernameList.txt
 
-Run command:
+## Run command:
 ```bash
 bash ./multiple-clone.sh
 ```
