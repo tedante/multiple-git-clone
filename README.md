@@ -7,5 +7,8 @@
 
 ## Run command:
 ```bash
-bash ./multiple-clone.sh
+bash ./multiple-clone.sh <org_name> <prefix>
+
+# example
+bash ./multiple-clone.sh h8-fsjs-gitclass-p1-23 fsjs-p1-v1-c1
 ```
